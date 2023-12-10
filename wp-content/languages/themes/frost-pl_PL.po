@@ -1,0 +1,779 @@
+# Translation of Themes - Frost in Polish
+# This file is distributed under the same license as the Themes - Frost package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-03 16:02:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.9\n"
+"Language: pl\n"
+"Project-Id-Version: Themes - Frost\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Frost"
+msgstr "Frost"
+
+#: patterns/cta-button-dark.php:10 patterns/cta-button.php:10
+#: patterns/footer-mega-dark.php:16 patterns/footer-mega.php:16
+#: patterns/footer-stacked-dark.php:14 patterns/footer-stacked.php:14
+#: patterns/hero-one-column.php:17 patterns/hero-two-columns.php:16
+#: patterns/page-about.php:58 patterns/page-pricing.php:177
+#: patterns/page-pricing.php:188 patterns/page-pricing.php:199
+msgid "With its clean, minimal design and powerful feature set, Frost enables agencies to build stylish and sophisticated WordPress websites."
+msgstr "Dzięki czystemu, minimalnemu projektowi i bogatemu zestawowi funkcji Frost umożliwia agencjom tworzenie stylowych i zaawansowanych stron internetowych WordPress."
+
+#: styles/teal.json
+msgctxt "Style variation name"
+msgid "Teal"
+msgstr "Morski"
+
+#: styles/red.json
+msgctxt "Style variation name"
+msgid "Red"
+msgstr "Czerwony"
+
+#: styles/purple.json
+msgctxt "Style variation name"
+msgid "Purple"
+msgstr "Fioletowy"
+
+#: styles/orange.json
+msgctxt "Style variation name"
+msgid "Orange"
+msgstr "Pomarańczowy"
+
+#: styles/magenta.json
+msgctxt "Style variation name"
+msgid "Magenta"
+msgstr "Magenta"
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr "Zielony"
+
+#: styles/graphite.json
+msgctxt "Style variation name"
+msgid "Graphite"
+msgstr "Grafitowy"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Stopka"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Nagłówek"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No Title"
+msgstr "Brak tytułu"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Brak"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "xLarge"
+msgstr "xL"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Duży"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "Średnia"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Mała"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "xSmall"
+msgstr "xS"
+
+#: theme.json styles/graphite.json styles/green.json styles/magenta.json
+#: styles/orange.json styles/purple.json styles/red.json styles/teal.json
+msgctxt "Duotone name"
+msgid "Secondary and White"
+msgstr "Drugie i Białe"
+
+#: theme.json styles/graphite.json styles/green.json styles/magenta.json
+#: styles/orange.json styles/purple.json styles/red.json styles/teal.json
+msgctxt "Duotone name"
+msgid "Primary and White"
+msgstr "Podstawowy i Biały"
+
+#: theme.json styles/graphite.json styles/green.json styles/magenta.json
+#: styles/orange.json styles/purple.json styles/red.json styles/teal.json
+msgctxt "Duotone name"
+msgid "Black and White"
+msgstr "Czerna na białym"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to Contrast"
+msgstr "Podstawowy do Kontrastu"
+
+#: theme.json styles/graphite.json styles/green.json styles/magenta.json
+#: styles/orange.json styles/purple.json styles/red.json styles/teal.json
+msgctxt "Color name"
+msgid "Neutral"
+msgstr "Neutralne"
+
+#: theme.json styles/graphite.json styles/green.json styles/magenta.json
+#: styles/orange.json styles/purple.json styles/red.json styles/teal.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Drugorzędne"
+
+#: theme.json styles/graphite.json styles/green.json styles/magenta.json
+#: styles/orange.json styles/purple.json styles/red.json styles/teal.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Główny"
+
+#: theme.json styles/graphite.json styles/green.json styles/magenta.json
+#: styles/orange.json styles/purple.json styles/red.json styles/teal.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Kontrast"
+
+#: theme.json styles/graphite.json styles/green.json styles/magenta.json
+#: styles/orange.json styles/purple.json styles/red.json styles/teal.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Podstawa"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "Monotypowy"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "72px"
+msgstr "72px"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "60px"
+msgstr "60px"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "48px"
+msgstr "48px"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "36px"
+msgstr "36px"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "xLarge"
+msgstr "xL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Duży"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Średnia"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mała"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "xSmall"
+msgstr "xS"
+
+#: patterns/posts.php
+msgctxt "Pattern title"
+msgid "List of posts in one column."
+msgstr "Lista wpisów w jednej kolumnie."
+
+#: patterns/page-pricing.php
+msgctxt "Pattern title"
+msgid "Sample pricing page."
+msgstr "Przykładowa strona z cenami."
+
+#: patterns/page-link.php
+msgctxt "Pattern title"
+msgid "Sample link page."
+msgstr "Przykładowa strona z łączami."
+
+#: patterns/page-home.php
+msgctxt "Pattern title"
+msgid "Sample home page."
+msgstr "Przykładowa strona główna."
+
+#: patterns/page-about.php
+msgctxt "Pattern title"
+msgid "Sample about page."
+msgstr "Przykładowa strona informacyjna."
+
+#: patterns/header-default-dark.php patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header with site title, navigation."
+msgstr "Nagłówek z tytułem strony, nawigacja."
+
+#: patterns/testimonials-image-dark.php patterns/testimonials-image.php
+msgctxt "Pattern title"
+msgid "Testimonials with text, image."
+msgstr "Świadectwa z tekstem, obrazem."
+
+#: patterns/testimonials-dark.php patterns/testimonials.php
+msgctxt "Pattern title"
+msgid "Testimonials with text."
+msgstr "Świadectwa z tekstem."
+
+#: patterns/team-four-columns.php
+msgctxt "Pattern title"
+msgid "Team with image, text, link."
+msgstr "Drużyna z obrazkiem, tekstem, linkiem."
+
+#: patterns/pricing-four-columns-dark.php patterns/pricing-four-columns.php
+#: patterns/pricing-three-columns-dark.php patterns/pricing-three-columns.php
+#: patterns/pricing-two-columns-dark.php patterns/pricing-two-columns.php
+msgctxt "Pattern title"
+msgid "Pricing table with heading, list, buttons."
+msgstr "Tabela cenowa z nagłówkiem, listą, przyciskami."
+
+#: patterns/portfolio.php
+msgctxt "Pattern title"
+msgid "Portfolio with heading, text, images."
+msgstr "Portfolio z nagłówkami, tekstem, obrazami."
+
+#: patterns/hero-one-column.php patterns/hero-two-columns.php
+msgctxt "Pattern title"
+msgid "Section with image, text, buttons."
+msgstr "Sekcja z obrazem, tekstem, przyciskami."
+
+#: patterns/cta-button-dark.php patterns/cta-button.php
+#: patterns/cta-stacked-dark.php patterns/cta-stacked.php
+msgctxt "Pattern title"
+msgid "Call-to-action with text, button."
+msgstr "Wezwanie do działania za pomocą tekstu, przycisku."
+
+#: patterns/boxes-three-dark.php patterns/boxes-three.php
+#: patterns/boxes-two-dark.php patterns/boxes-two.php
+msgctxt "Pattern title"
+msgid "Boxes with heading, text, button."
+msgstr "Ramki z nagłówkiem, tekstem, przyciskiem."
+
+#: patterns/footer-three-columns-dark.php patterns/footer-three-columns.php
+msgctxt "Pattern title"
+msgid "Footer with text, links, buttons."
+msgstr "Stopka z tekstem, linkami, przyciskami."
+
+#: patterns/footer-stacked-dark.php patterns/footer-stacked.php
+msgctxt "Pattern title"
+msgid "Footer with heading, text, button."
+msgstr "Stopka z nagłówkiem, tekstem, przyciskiem."
+
+#: patterns/footer-mega-dark.php patterns/footer-mega.php
+msgctxt "Pattern title"
+msgid "Footer with text, button, links."
+msgstr "Stopka z tekstem, przyciskiem, linkami."
+
+#: patterns/footer-default-dark.php patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer with text, links."
+msgstr "Stopka z tekstem, linkami."
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404 error content."
+msgstr "Zawartość błędu 404."
+
+#: patterns/page-pricing.php:174 patterns/page-pricing.php:185
+#: patterns/page-pricing.php:196
+msgid "Why should I download the Frost WordPress theme?"
+msgstr "Dlaczego powinienem pobrać motyw Frost WordPress?"
+
+#: patterns/page-pricing.php:169
+msgid "Below is a list of frequently asked questions."
+msgstr "Poniżej znajduje się lista najczęściej zadawanych pytań."
+
+#: patterns/page-about.php:145
+msgid "The talented folks who work on the Frost theme."
+msgstr "Utalentowani ludzie, którzy pracują nad tematem Mróz."
+
+#: patterns/page-about.php:142
+msgid "Meet the team."
+msgstr "Poznaj drużynę."
+
+#: patterns/page-about.php:133
+msgid "View Layouts"
+msgstr "Wyświetl układy"
+
+#: patterns/page-about.php:130
+msgid "View Patterns"
+msgstr "Zobacz wzorce"
+
+#: patterns/page-about.php:124
+msgid "With its clean, minimal design and powerful feature set, Frost enables agencies to build stylish and sophisticated WordPress websites. Ka-chow!"
+msgstr "Dzięki czystemu, minimalnemu projektowi i potężnemu zestawowi funkcji Frost umożliwia agencjom tworzenie stylowych i zaawansowanych stron internetowych WordPress. Ka-chow!"
+
+#: patterns/page-about.php:112
+msgid "An essential element of web design used to create a visually striking design."
+msgstr "Zasadniczy element projektowania stron internetowych, używany do tworzenia efektownych wizualnie projektów."
+
+#: patterns/page-about.php:109
+msgid "Styles"
+msgstr "Style"
+
+#: patterns/page-about.php:98
+msgid "A collection of full-page patterns used to showcase content or a message."
+msgstr "Zbiór całostronicowych wzorów używanych do prezentowania treści lub przekazu."
+
+#: patterns/page-about.php:95
+msgid "Layouts"
+msgstr "Układy"
+
+#: patterns/page-about.php:84
+msgid "A preset bundle of blocks that empower builders and amplify their creativity."
+msgstr "Zestaw gotowych klocków, które dają budowniczym możliwości i zwiększają ich kreatywność."
+
+#: patterns/page-about.php:81
+msgid "Patterns"
+msgstr "Wzorce"
+
+#: patterns/page-about.php:73 patterns/page-about.php:87
+#: patterns/page-about.php:101 patterns/page-about.php:115
+msgid "Learn More →"
+msgstr "Dowiedz się więcej →"
+
+#: patterns/page-about.php:70
+msgid "The foundation on which aesthetics, user experience, and functionality is built."
+msgstr "Fundament, na którym opiera się estetyka, doświadczenie użytkownika i funkcjonalność."
+
+#: patterns/page-about.php:67
+msgid "Design"
+msgstr "Projekt"
+
+#: patterns/page-about.php:15 patterns/page-home.php:109
+msgid "Whether you’re building a website for your business, personal brand, or creative project, Frost is the perfect solution for anyone looking to launch a website quickly and efficiently."
+msgstr "Niezależnie od tego, czy budujesz stronę internetową dla swojej firmy, marki osobistej czy projektu kreatywnego, Frost jest idealnym rozwiązaniem dla każdego, kto chce szybko i sprawnie uruchomić stronę internetową."
+
+#: patterns/cta-stacked-dark.php:11 patterns/cta-stacked.php:11
+msgid "Call-to-Action"
+msgstr "Zachęta do działania"
+
+#: patterns/cta-button-dark.php:14 patterns/cta-button.php:14
+msgid "Get Started Today"
+msgstr "Zacznij już dziś"
+
+#: patterns/boxes-two-dark.php:15 patterns/boxes-two-dark.php:28
+#: patterns/boxes-two.php:15 patterns/boxes-two.php:28
+#: patterns/page-home.php:33
+msgid "Frost is a powerful WordPress theme created for agencies and professional website builders. With its clean, minimal design, Frost provides the perfect canvas for stylish and sophisticated websites."
+msgstr "Frost to potężny motyw WordPress stworzony dla agencji i profesjonalnych twórców stron internetowych. Dzięki czystemu, minimalnemu designowi Frost jest idealnym płótnem dla stylowych i wyrafinowanych stron internetowych."
+
+#: patterns/boxes-three-dark.php:15 patterns/boxes-three-dark.php:28
+#: patterns/boxes-three-dark.php:41 patterns/boxes-three.php:15
+#: patterns/boxes-three.php:28 patterns/boxes-three.php:41
+msgid "Frost is a powerful WordPress theme created for agencies and professional website builders."
+msgstr "Frost to potężny motyw WordPress stworzony dla agencji i profesjonalnych twórców stron internetowych."
+
+#: patterns/boxes-three-dark.php:12 patterns/boxes-three-dark.php:25
+#: patterns/boxes-three-dark.php:38 patterns/boxes-three.php:12
+#: patterns/boxes-three.php:25 patterns/boxes-three.php:38
+#: patterns/boxes-two-dark.php:12 patterns/boxes-two-dark.php:25
+#: patterns/boxes-two.php:12 patterns/boxes-two.php:25
+#: patterns/page-home.php:30 patterns/portfolio.php:12
+msgid "Build with Frost"
+msgstr "Buduj z Frostem"
+
+#: patterns/page-pricing.php:11
+msgid "Our Pricing"
+msgstr "Nasze ceny"
+
+#: patterns/page-link.php:46
+msgid "Made with Frost"
+msgstr "Zrobione z Frost'em."
+
+#: patterns/page-link.php:41
+msgid "Listen to My Podcast"
+msgstr "Posłuchaj mojego podcastu"
+
+#: patterns/page-link.php:38
+msgid "Follow My Newsletter"
+msgstr "Śledź mój biuletyn"
+
+#: patterns/page-link.php:35
+msgid "Download My Ebook"
+msgstr "Pobierz moją książkę"
+
+#: patterns/page-link.php:32
+msgid "Read My Blog"
+msgstr "Przeczytaj mój blog"
+
+#: patterns/page-link.php:29
+msgid "Visit My Website"
+msgstr "Odwiedź moją stronę"
+
+#: patterns/page-link.php:14
+msgid "Your Name"
+msgstr "Twoje imię i nazwisko"
+
+#: patterns/page-home.php:106
+msgid "Stylish websites. Simply made."
+msgstr "Stylowe strony internetowe. Po prostu zrobione."
+
+#: patterns/page-home.php:84
+msgid "Frost utilizes the potential of the editor to create link pages, serve as a powerful tool for building relationships with clients, sharing valuable content, and boosting social media engagement."
+msgstr "Frost wykorzystuje potencjał edytora do tworzenia stron z linkami, które służą jako potężne narzędzie do budowania relacji z klientami, dzielenia się wartościowymi treściami i zwiększania zaangażowania w mediach społecznościowych."
+
+#: patterns/page-home.php:81
+msgid "One theme. Infinite designs."
+msgstr "Jeden temat. Nieskończona ilość projektów."
+
+#: patterns/page-home.php:69
+msgid "Frost is a masterpiece of design and functionality. It features a range of valuable elements, including hero and portfolio sections, prominent call-to-action buttons, and customer testimonials."
+msgstr "Frost to arcydzieło designu i funkcjonalności. Zawiera wiele wartościowych elementów, takich jak sekcje bohaterów i portfolio, wyraźne przyciski wezwania do działania oraz referencje klientów."
+
+#: patterns/page-home.php:66
+msgid "Fresh patterns. Endless Layouts."
+msgstr "Świeże wzory. Niekończące się układy."
+
+#: patterns/page-home.php:14 patterns/page-home.php:55
+#: patterns/page-pricing.php:14
+msgid "Frost is the ultimate WordPress theme for website builders."
+msgstr "Frost to najlepszy motyw WordPress dla twórców stron internetowych."
+
+#: patterns/page-about.php:12 patterns/page-home.php:10
+#: patterns/page-home.php:52
+msgid "Experience the next generation of WordPress."
+msgstr "Poznaj następną generację WordPressa."
+
+#: patterns/testimonials-dark.php:15 patterns/testimonials-dark.php:26
+#: patterns/testimonials-dark.php:37 patterns/testimonials-image-dark.php:15
+#: patterns/testimonials-image-dark.php:36
+#: patterns/testimonials-image-dark.php:57 patterns/testimonials-image.php:15
+#: patterns/testimonials-image.php:36 patterns/testimonials-image.php:57
+#: patterns/testimonials.php:15 patterns/testimonials.php:26
+#: patterns/testimonials.php:37
+msgid "With its clean, minimal design and powerful features, Frost enables agencies to build cool websites."
+msgstr "Dzięki czystemu, minimalnemu projektowi i potężnym funkcjom Frost umożliwia agencjom tworzenie fajnych stron internetowych."
+
+#: patterns/page-about.php:162 patterns/page-about.php:178
+#: patterns/page-about.php:194 patterns/page-about.php:210
+#: patterns/team-four-columns.php:22 patterns/team-four-columns.php:38
+#: patterns/team-four-columns.php:54 patterns/team-four-columns.php:70
+msgid "View Profile"
+msgstr "Zobacz profil"
+
+#: patterns/page-about.php:158 patterns/page-about.php:174
+#: patterns/page-about.php:190 patterns/page-about.php:206
+#: patterns/team-four-columns.php:18 patterns/team-four-columns.php:34
+#: patterns/team-four-columns.php:50 patterns/team-four-columns.php:66
+msgid "I’m a WordPress developer and enjoy building websites."
+msgstr "Jestem programistą WordPressa i lubię budować strony internetowe."
+
+#: patterns/page-about.php:155 patterns/page-about.php:171
+#: patterns/page-about.php:187 patterns/page-about.php:203
+#: patterns/team-four-columns.php:15 patterns/team-four-columns.php:31
+#: patterns/team-four-columns.php:47 patterns/team-four-columns.php:63
+msgid "Member Name"
+msgstr "Imię i nazwisko członka"
+
+#: patterns/pricing-four-columns-dark.php:154
+#: patterns/pricing-four-columns.php:154
+msgid "Ultimate"
+msgstr "Ultimate"
+
+#: patterns/page-pricing.php:116 patterns/pricing-four-columns-dark.php:107
+#: patterns/pricing-four-columns.php:107
+#: patterns/pricing-three-columns-dark.php:107
+#: patterns/pricing-three-columns.php:107
+msgid "Enterprise"
+msgstr "Przedsiębiorstwo"
+
+#: patterns/page-pricing.php:69 patterns/pricing-four-columns-dark.php:60
+#: patterns/pricing-four-columns.php:60
+#: patterns/pricing-three-columns-dark.php:60
+#: patterns/pricing-three-columns.php:60
+#: patterns/pricing-two-columns-dark.php:60 patterns/pricing-two-columns.php:60
+msgid "Professional"
+msgstr "Profesjonalny"
+
+#: patterns/page-pricing.php:22 patterns/pricing-four-columns-dark.php:13
+#: patterns/pricing-four-columns.php:13
+#: patterns/pricing-three-columns-dark.php:13
+#: patterns/pricing-three-columns.php:13
+#: patterns/pricing-two-columns-dark.php:13 patterns/pricing-two-columns.php:13
+msgid "Personal"
+msgstr "Osobiste"
+
+#: patterns/portfolio.php:19
+msgid "View Project"
+msgstr "Pokaż projekt"
+
+#: patterns/portfolio.php:15
+msgid "Frost is a powerful WordPress theme created for agencies and professional website builders. With its clean, minimal design, Frost provides the perfect canvas for sophisticated websites."
+msgstr "Frost to potężny motyw WordPress stworzony dla agencji i profesjonalnych twórców stron internetowych. Dzięki czystemu, minimalnemu designowi Frost stanowi idealne płótno dla wyrafinowanych stron internetowych."
+
+#: patterns/hero-one-column.php:13 patterns/hero-two-columns.php:13
+msgid "Welcome to Frost"
+msgstr "Witaj w Frost."
+
+#: patterns/cta-stacked-dark.php:14 patterns/cta-stacked.php:14
+msgid "With its minimal design and powerful feature set, Frost enables agencies to build sophisticated websites."
+msgstr "Dzięki minimalnej konstrukcji i rozbudowanemu zestawowi funkcji Frost umożliwia agencjom tworzenie zaawansowanych stron internetowych."
+
+#: patterns/footer-mega-dark.php:33 patterns/footer-mega.php:33
+msgid "Our Mission"
+msgstr "Nasza misja"
+
+#: patterns/footer-mega-dark.php:30 patterns/footer-mega.php:30
+msgid "Start Here"
+msgstr "Zacznij tutaj"
+
+#: patterns/footer-mega-dark.php:26 patterns/footer-mega.php:26
+msgid "About Us"
+msgstr "O nas"
+
+#: patterns/boxes-three.php:19 patterns/boxes-three.php:32
+#: patterns/boxes-three.php:45 patterns/boxes-two-dark.php:19
+#: patterns/boxes-two-dark.php:32 patterns/boxes-two.php:19
+#: patterns/boxes-two.php:32 patterns/footer-mega-dark.php:20
+#: patterns/footer-mega.php:20 patterns/hero-one-column.php:25
+#: patterns/hero-two-columns.php:23 patterns/page-about.php:22
+#: patterns/page-home.php:21
+msgid "Learn More"
+msgstr "Dowiedz się więcej"
+
+#: patterns/page-pricing.php:30 patterns/page-pricing.php:36
+#: patterns/page-pricing.php:42 patterns/page-pricing.php:48
+#: patterns/page-pricing.php:54 patterns/page-pricing.php:77
+#: patterns/page-pricing.php:83 patterns/page-pricing.php:89
+#: patterns/page-pricing.php:95 patterns/page-pricing.php:101
+#: patterns/page-pricing.php:124 patterns/page-pricing.php:130
+#: patterns/page-pricing.php:136 patterns/page-pricing.php:142
+#: patterns/page-pricing.php:148 patterns/pricing-four-columns-dark.php:21
+#: patterns/pricing-four-columns-dark.php:27
+#: patterns/pricing-four-columns-dark.php:33
+#: patterns/pricing-four-columns-dark.php:39
+#: patterns/pricing-four-columns-dark.php:45
+#: patterns/pricing-four-columns-dark.php:68
+#: patterns/pricing-four-columns-dark.php:74
+#: patterns/pricing-four-columns-dark.php:80
+#: patterns/pricing-four-columns-dark.php:86
+#: patterns/pricing-four-columns-dark.php:92
+#: patterns/pricing-four-columns-dark.php:115
+#: patterns/pricing-four-columns-dark.php:121
+#: patterns/pricing-four-columns-dark.php:127
+#: patterns/pricing-four-columns-dark.php:133
+#: patterns/pricing-four-columns-dark.php:139
+#: patterns/pricing-four-columns-dark.php:162
+#: patterns/pricing-four-columns-dark.php:168
+#: patterns/pricing-four-columns-dark.php:174
+#: patterns/pricing-four-columns-dark.php:180
+#: patterns/pricing-four-columns-dark.php:186
+#: patterns/pricing-four-columns.php:21 patterns/pricing-four-columns.php:27
+#: patterns/pricing-four-columns.php:33 patterns/pricing-four-columns.php:39
+#: patterns/pricing-four-columns.php:45 patterns/pricing-four-columns.php:68
+#: patterns/pricing-four-columns.php:74 patterns/pricing-four-columns.php:80
+#: patterns/pricing-four-columns.php:86 patterns/pricing-four-columns.php:92
+#: patterns/pricing-four-columns.php:115 patterns/pricing-four-columns.php:121
+#: patterns/pricing-four-columns.php:127 patterns/pricing-four-columns.php:133
+#: patterns/pricing-four-columns.php:139 patterns/pricing-four-columns.php:162
+#: patterns/pricing-four-columns.php:168 patterns/pricing-four-columns.php:174
+#: patterns/pricing-four-columns.php:180 patterns/pricing-four-columns.php:186
+#: patterns/pricing-three-columns-dark.php:21
+#: patterns/pricing-three-columns-dark.php:27
+#: patterns/pricing-three-columns-dark.php:33
+#: patterns/pricing-three-columns-dark.php:39
+#: patterns/pricing-three-columns-dark.php:45
+#: patterns/pricing-three-columns-dark.php:68
+#: patterns/pricing-three-columns-dark.php:74
+#: patterns/pricing-three-columns-dark.php:80
+#: patterns/pricing-three-columns-dark.php:86
+#: patterns/pricing-three-columns-dark.php:92
+#: patterns/pricing-three-columns-dark.php:115
+#: patterns/pricing-three-columns-dark.php:121
+#: patterns/pricing-three-columns-dark.php:127
+#: patterns/pricing-three-columns-dark.php:133
+#: patterns/pricing-three-columns-dark.php:139
+#: patterns/pricing-three-columns.php:21 patterns/pricing-three-columns.php:27
+#: patterns/pricing-three-columns.php:33 patterns/pricing-three-columns.php:39
+#: patterns/pricing-three-columns.php:45 patterns/pricing-three-columns.php:68
+#: patterns/pricing-three-columns.php:74 patterns/pricing-three-columns.php:80
+#: patterns/pricing-three-columns.php:86 patterns/pricing-three-columns.php:92
+#: patterns/pricing-three-columns.php:115
+#: patterns/pricing-three-columns.php:121
+#: patterns/pricing-three-columns.php:127
+#: patterns/pricing-three-columns.php:133
+#: patterns/pricing-three-columns.php:139
+#: patterns/pricing-two-columns-dark.php:21
+#: patterns/pricing-two-columns-dark.php:27
+#: patterns/pricing-two-columns-dark.php:33
+#: patterns/pricing-two-columns-dark.php:39
+#: patterns/pricing-two-columns-dark.php:45
+#: patterns/pricing-two-columns-dark.php:68
+#: patterns/pricing-two-columns-dark.php:74
+#: patterns/pricing-two-columns-dark.php:80
+#: patterns/pricing-two-columns-dark.php:86
+#: patterns/pricing-two-columns-dark.php:92 patterns/pricing-two-columns.php:21
+#: patterns/pricing-two-columns.php:27 patterns/pricing-two-columns.php:33
+#: patterns/pricing-two-columns.php:39 patterns/pricing-two-columns.php:45
+#: patterns/pricing-two-columns.php:68 patterns/pricing-two-columns.php:74
+#: patterns/pricing-two-columns.php:80 patterns/pricing-two-columns.php:86
+#: patterns/pricing-two-columns.php:92
+msgid "Feature Item"
+msgstr "Cecha charakterystyczna"
+
+#: patterns/cta-stacked-dark.php:18 patterns/cta-stacked.php:18
+#: patterns/header-notification-bar-dark.php:16
+#: patterns/header-notification-bar.php:16 patterns/hero-one-column.php:22
+#: patterns/hero-two-columns.php:20 patterns/page-about.php:19
+#: patterns/page-home.php:18 patterns/page-home.php:37
+#: patterns/page-home.php:73 patterns/page-home.php:88
+#: patterns/page-home.php:113 patterns/page-pricing.php:62
+#: patterns/page-pricing.php:109 patterns/page-pricing.php:156
+#: patterns/pricing-four-columns-dark.php:53
+#: patterns/pricing-four-columns-dark.php:100
+#: patterns/pricing-four-columns-dark.php:147
+#: patterns/pricing-four-columns-dark.php:194
+#: patterns/pricing-four-columns.php:53 patterns/pricing-four-columns.php:100
+#: patterns/pricing-four-columns.php:147 patterns/pricing-four-columns.php:194
+#: patterns/pricing-three-columns-dark.php:53
+#: patterns/pricing-three-columns-dark.php:100
+#: patterns/pricing-three-columns-dark.php:147
+#: patterns/pricing-three-columns.php:53 patterns/pricing-three-columns.php:100
+#: patterns/pricing-three-columns.php:147
+#: patterns/pricing-two-columns-dark.php:53
+#: patterns/pricing-two-columns-dark.php:100
+#: patterns/pricing-two-columns.php:53 patterns/pricing-two-columns.php:100
+msgid "Get Started"
+msgstr "Zaczynamy"
+
+#: patterns/footer-mega-dark.php:13 patterns/footer-mega.php:13
+msgid "Our Company"
+msgstr "Nasza firma"
+
+#: patterns/404.php:12
+msgid "Oops, the page you are looking for does not exist or is no longer available. Everything is still awesome. Just use the search form to find your way."
+msgstr "Ups, strona, której szukasz, nie istnieje lub nie jest już dostępna. Wszystko jest nadal świetne. Użyj formularza wyszukiwania, aby znaleźć swoją drogę."
+
+#: patterns/404.php:9
+msgid "Not found, error 404"
+msgstr "Nie znaleziono, błąd 404"
+
+#: functions.php:74 functions.php:81
+msgid "Outline"
+msgstr "Kontur"
+
+#: functions.php:71
+msgid "No Disc"
+msgstr "Brak dysku"
+
+#: functions.php:60
+msgid "Reverse"
+msgstr "Odwróć stronę"
+
+#: patterns/footer-three-columns-dark.php:17
+#: patterns/footer-three-columns.php:15
+msgid "Terms of Service"
+msgstr "Warunki świadczenia usług"
+
+#: patterns/footer-three-columns-dark.php:17
+#: patterns/footer-three-columns.php:15
+msgid "Privacy Policy"
+msgstr "Polityka prywatności"
+
+#: patterns/footer-default-dark.php:12 patterns/footer-stacked-dark.php:22
+#: patterns/footer-stacked.php:22 patterns/footer-three-columns-dark.php:17
+#: patterns/footer-three-columns.php:15
+msgid "Contact Us"
+msgstr "Skontaktuj się z nami"
+
+#: patterns/footer-stacked-dark.php:18 patterns/footer-stacked.php:18
+msgid "Get in Touch"
+msgstr "Pozostań w kontakcie"
+
+#: patterns/footer-stacked-dark.php:11 patterns/footer-stacked.php:11
+msgid "Let’s Connect"
+msgstr "Połączmy się"
+
+#: patterns/footer-mega-dark.php:70 patterns/footer-mega.php:70
+msgid "Connect"
+msgstr "Połącz"
+
+#: patterns/footer-mega-dark.php:64 patterns/footer-mega.php:64
+msgid "Social Media"
+msgstr "Social media"
+
+#: patterns/footer-mega-dark.php:61 patterns/footer-mega.php:61
+msgid "Marketing"
+msgstr "Marketing"
+
+#: patterns/footer-mega-dark.php:58 patterns/footer-mega.php:58
+msgid "Copywriting"
+msgstr "Copywriting"
+
+#: patterns/footer-mega-dark.php:55 patterns/footer-mega.php:55
+msgid "Development"
+msgstr "Rozwój"
+
+#: patterns/footer-mega-dark.php:52 patterns/footer-mega.php:52
+msgid "Web Design"
+msgstr "Tworzenie stron internetowych"
+
+#: patterns/footer-mega-dark.php:48 patterns/footer-mega.php:48
+msgid "Services"
+msgstr "Usługi UPS"
+
+#: patterns/footer-mega-dark.php:42 patterns/footer-mega.php:42
+msgid "Accessibility"
+msgstr "Dostępność"
+
+#: patterns/footer-mega-dark.php:39 patterns/footer-mega.php:39
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: patterns/footer-mega-dark.php:36 patterns/footer-mega.php:36
+msgid "Brand Guide"
+msgstr "Przewodnik po marce"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://wpengine.com/"
+msgstr "https://wpengine.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "WP Engine"
+msgstr "WP Engine"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://frostwp.com/"
+msgstr "https://frostwp.com/"
